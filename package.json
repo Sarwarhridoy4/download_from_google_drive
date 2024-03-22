@@ -1,0 +1,31 @@
+{
+  "name": "download-from-google-drive",
+  "version": "1.0.0",
+  "description": "An NPM package for downloading any file from Google Drive. The file must have at least public viewer permission.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarwarhridoy4/download_from_google_drive.git"
+  },
+  "keywords": [
+    "gdrive-downloader",
+    "googledrive-fetch",
+    "drive-file-fetcher",
+    "gfile-download",
+    "gdrive-dl-helper",
+    "google-drive-get",
+    "drive-link-fetcher",
+    "gdrive-link-loader",
+    "gdownloader",
+    "drive-file-downloader"
+  ],
+  "author": "Sarwar Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarwarhridoy4/download_from_google_drive/issues"
+  },
+  "homepage": "https://github.com/Sarwarhridoy4/download_from_google_drive#readme"
+}
