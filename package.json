@@ -1,8 +1,11 @@
 {
-  "name": "download-from-google-drive",
+  "name": "@devsarwar/download_from_google_drive",
   "version": "1.0.0",
-  "description": "An NPM package for downloading any file from Google Drive. The file must have at least public viewer permission.",
+  "description": "A NPM package for Download Any kinds of file from Google Drive. File must have atleast public viewer permission.",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
