@@ -1,5 +1,5 @@
 {
-  "name": "@devsarwar/download_from_google_drive",
+  "name": "download_from_google_drive",
   "version": "1.0.0",
   "description": "A NPM package for Download Any kinds of file from Google Drive. File must have atleast public viewer permission.",
   "main": "index.js",
